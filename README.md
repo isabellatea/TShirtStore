@@ -1,9 +1,5 @@
-# TShirtStore
-Practice Project to create a T-Shirt Store.
-
-## Summary
-A T-Shirt Online store that displays T-shirts and related information.
-Utilizes HTML/CSS/Javascript (jQuery).  
+# T-Shirt Store Website
+Practice Project to create a T-Shirt Store. Provided are bare bones setup of HTML/CSS/JS(jQuery) files.  Follow the challenges list to practice various HTML/CSS/JS(jQuery) skills. After which, customize the styling to any way you choose! Be creative and put your spin on it :) 
 
 ## Directory
 - **index.html** - homepage
