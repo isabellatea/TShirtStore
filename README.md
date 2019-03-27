@@ -1,5 +1,8 @@
 # T-Shirt Store Website
-Practice Project to create a T-Shirt Store. Provided are bare bones setup of HTML/CSS/JS(jQuery) files.  Follow the challenges list to practice various HTML/CSS/JS(jQuery) skills. After which, customize the styling to any way you choose! Be creative and put your spin on it :) 
+Practice Project to create a T-Shirt Store.
+
+## Summary
+Provided are bare bones setup of HTML/CSS/JS(jQuery) files.  Follow the **Challenges** list to practice your web development skills. After which, be creative and put your own spin on the styling! :) 
 
 ## Directory
 - **index.html** - homepage
