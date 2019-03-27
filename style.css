@@ -1,0 +1,35 @@
+/* Body */
+body {
+  font-family: Helvetica;
+  background-image: url('http://i65.tinypic.com/2hweah2.jpg');
+  margin: 0px;
+}
+
+/* Navivation Bar */
+#navBar {
+  background-color: #000000;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+li {
+  display: inline-block;
+  padding: 15px 20px;
+}
+
+li:hover {
+  background-color: darkred;
+  color: white;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+}
